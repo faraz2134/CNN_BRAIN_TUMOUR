@@ -106,4 +106,5 @@ This model is for educational purposes only and should not be used for medical d
 
 ## 👨‍💻 Author
 
-Akmal Faraz
+Md Akmal Faraz
+_B.Tech CSE_
